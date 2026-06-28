@@ -6,7 +6,7 @@
     In this assignment, a small version of scrabble was implemented. This was done using the jquery UI
     and drag and drop features. The game displays a single row of the board, which is 15 lines, bonus points
     squares, and 7 randomly selected letters for the game. The game calculates the point total for each word 
-    implemented and stores it, until reaching a goal of 100 points. Overall, it was a pretty fun thing to make,
+    implemented and stores it, until reaching a tile total of 100. Overall, it was a pretty fun thing to make,
     and I learned a lot of front end UI stuff for jquery and css. 
 
     Functions (working):
